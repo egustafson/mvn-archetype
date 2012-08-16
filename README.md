@@ -1,4 +1,0 @@
-mvn-archetype
-=============
-
-Maven archetypes
